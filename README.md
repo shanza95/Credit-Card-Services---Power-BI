@@ -14,6 +14,7 @@ This project focuses on building an interactive Credit Card Customer Insights Da
    - No need to manually refresh CSvs or worry about duplicates.
 
 ## DASHBOARD 
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/1bf70dee-ffc2-4b0b-809e-9adefc86e4e7" />
 
 
 
