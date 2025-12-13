@@ -3,7 +3,6 @@
 ## Project Overview
 This project focuses on building an interactive Credit Card Customer Insights Dashboard using Power BI. The dashboard provides a comprehensive view of customer behavior, credit utilization, transaction activity, financial outcomes, and risk indicators. By integrating key credit card metrics, the dashboard helps business teams, analysts, and decision-makers understand patterns that drive profitability, customer satisfaction, and risk exposure.
 
-
 ## Workflow: CSV --> MySQL --> Power BI
 *(Why not upload CSVs directly to Power BI)*
 
@@ -13,6 +12,8 @@ This project focuses on building an interactive Credit Card Customer Insights Da
 3. Power BI connects to MySQL for reporting
    - Dashboards are built on clean, consistent data.
    - No need to manually refresh CSvs or worry about duplicates.
+
+## DASHBOARD 
 
 
 
