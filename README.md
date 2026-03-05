@@ -62,35 +62,10 @@ The quarterly analysis shows that transaction counts and revenue remain relative
 This indicates steady credit card usage throughout the year.
 
 ## Tools Used:
-- Microsoft Power BI
-- Power Query for data cleaning
+- Microsoft Power BI Desktop for report development and publishing
+- Power Query for data cleaning and transformation
 - DAX for calculated measures
 - SQL for data connection
 - Excel dataset as the data source
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-_______________________________________________________
-
-## Technology Stack
-- Power BI Desktop for report development and publishing
-- Power Query for data cleaning and transformation
-- Excel/CSv as data source 
